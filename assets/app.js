@@ -38,8 +38,19 @@ function getDomain(url) {
   }
 }
 
+// Must match the function in scripts/generate-previews.js
+function previewSlug(url) {
+  return url
+    .replace(/^https?:\/\/(www\.)?/, "")
+    .replace(/\/+$/, "")
+    .replace(/[^a-z0-9]+/gi, "-")
+    .toLowerCase()
+    .replace(/^-+|-+$/g, "")
+    .substring(0, 80);
+}
+
 function previewImageUrl(url) {
-  return `https://s0.wp.com/mshots/v1/${encodeURIComponent(url)}?w=900&h=500`;
+  return `assets/previews/${previewSlug(url)}.jpg`;
 }
 
 function faviconUrl(url) {

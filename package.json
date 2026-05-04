@@ -1,0 +1,13 @@
+{
+  "name": "awesome-websites",
+  "version": "1.0.0",
+  "description": "Preview screenshot generator for awesome_websites.",
+  "type": "module",
+  "scripts": {
+    "previews": "node scripts/generate-previews.js",
+    "previews:force": "FORCE=1 node scripts/generate-previews.js"
+  },
+  "devDependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
