@@ -59,6 +59,7 @@ Curated list of awesome webistes I have found all around the Internet.
 - https://gallerix.org/ - giant online museum
 - https://chemistry-en.nobook.com/console/templates/resource - chemical experiments
 - https://blog.bytebytego.com/ - collection of educational posts
+- https://phet.colorado.edu/ - interactive scientific simulations
 
 ## Tools
 
