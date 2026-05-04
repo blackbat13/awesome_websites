@@ -1060,5 +1060,16 @@
             "free"
         ],
         "description": "interactive periodic table"
+    },
+    {
+        "name": "Floor 796",
+        "url": "https://floor796.com/",
+        "category": "Random stuff",
+        "tags": [
+            "collection",
+            "free",
+            "fun"
+        ],
+        "description": "a huge animation scene with many references to memes, games, films, series, anime, music groups"
     }
 ]
