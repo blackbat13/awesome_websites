@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome Websites Explorer</title>
+  <meta name="description" content="Search and discover interesting websites by category and tags.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="noise" aria-hidden="true"></div>
+  <header class="hero">
+    <p class="eyebrow">Curated Internet Gems</p>
+    <h1>Awesome Websites Explorer</h1>
+    <p class="subtitle">Browse, search, and filter this collection of fascinating places on the web.</p>
+  </header>
+
+  <main class="container">
+    <section class="controls" aria-label="Search and filters">
+      <label class="search-wrap" for="searchInput">
+        <span>Search by name, URL, category, description, or tags</span>
+        <input id="searchInput" type="search" placeholder="Try: map, rpg, simulator, design..." autocomplete="off">
+      </label>
+
+      <div class="control-row">
+        <label>
+          <span>Category</span>
+          <select id="categorySelect">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+        <div class="meta">
+          <p id="resultCount" aria-live="polite">Loading websites...</p>
+        </div>
+      </div>
+
+      <div>
+        <p class="tags-title">Filter by tags</p>
+        <div id="tagList" class="tag-list" role="list"></div>
+      </div>
+    </section>
+
+    <section>
+      <div id="cards" class="cards" aria-live="polite"></div>
+      <template id="cardTemplate">
+        <article class="card">
+          <div class="card-preview-wrap">
+            <img class="card-preview" alt="Website preview" loading="lazy" decoding="async">
+          </div>
+          <div class="card-body">
+            <p class="card-category"></p>
+            <h2 class="card-title"></h2>
+            <p class="card-description"></p>
+            <div class="card-tags"></div>
+            <a class="card-link" target="_blank" rel="noopener noreferrer">Visit website</a>
+          </div>
+        </article>
+      </template>
+    </section>
+  </main>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

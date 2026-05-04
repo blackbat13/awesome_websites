@@ -1,0 +1,1064 @@
+﻿[
+    {
+        "name": "Pngimg",
+        "url": "https://pngimg.com/",
+        "category": "Graphics",
+        "tags": [
+            "collection",
+            "free",
+            "graphics",
+            "images",
+            "png"
+        ],
+        "description": "a huge collection of free png images"
+    },
+    {
+        "name": "Thiings",
+        "url": "https://www.thiings.co/things",
+        "category": "Graphics",
+        "tags": [
+            "collection",
+            "graphics",
+            "icons",
+            "png"
+        ],
+        "description": "huge collection of png icons"
+    },
+    {
+        "name": "Gratisography",
+        "url": "https://gratisography.com/",
+        "category": "Graphics",
+        "tags": [
+            "free",
+            "graphics",
+            "images",
+            "stock"
+        ],
+        "description": "unique, free stock images"
+    },
+    {
+        "name": "Photopea",
+        "url": "https://www.photopea.com/",
+        "category": "Graphics",
+        "tags": [
+            "editor",
+            "free",
+            "graphics",
+            "photo editor"
+        ],
+        "description": "free online photo editor"
+    },
+    {
+        "name": "Remove",
+        "url": "https://remove.photos/",
+        "category": "Graphics",
+        "tags": [
+            "graphics",
+            "photo editor",
+            "remove background",
+            "free"
+        ],
+        "description": "remove background from images"
+    },
+    {
+        "name": "Svgrepo",
+        "url": "https://www.svgrepo.com/",
+        "category": "Graphics",
+        "tags": [
+            "collection",
+            "graphics",
+            "icons",
+            "vector images",
+            "svg",
+            "free"
+        ],
+        "description": "collection of svg vectors and icons"
+    },
+    {
+        "name": "Pacdora",
+        "url": "https://www.pacdora.com/",
+        "category": "Graphics",
+        "tags": [
+            "graphics",
+            "mockups",
+            "packaging",
+            "paid"
+        ],
+        "description": "packaging mockups"
+    },
+    {
+        "name": "Resourceboy",
+        "url": "https://resourceboy.com/",
+        "category": "Graphics",
+        "tags": [
+            "design",
+            "free",
+            "graphics"
+        ],
+        "description": "free design resources"
+    },
+    {
+        "name": "Paperanimator",
+        "url": "https://paperanimator.com/",
+        "category": "Video",
+        "tags": [
+            "animations",
+            "generating",
+            "video",
+            "paid"
+        ],
+        "description": "tool for generating paper-like animations"
+    },
+    {
+        "name": "Freedesigntool",
+        "url": "https://freedesigntool.online/",
+        "category": "Video",
+        "tags": [
+            "video",
+            "freemium",
+            "tool",
+            "paid",
+            "video effects",
+            "image effects",
+            "graphics"
+        ],
+        "description": "collection of video and image effects"
+    },
+    {
+        "name": "X minus",
+        "url": "https://x-minus.pro/ai",
+        "category": "Music",
+        "tags": [
+            "music",
+            "tool",
+            "free"
+        ],
+        "description": "remove voice from a song"
+    },
+    {
+        "name": "Syrinscape",
+        "url": "https://app.syrinscape.com",
+        "category": "Music",
+        "tags": [
+            "sound effects",
+            "music",
+            "rpg",
+            "sound",
+            "freemium",
+            "paid"
+        ],
+        "description": "sound effects for rpg sessions"
+    },
+    {
+        "name": "Reactbits",
+        "url": "https://www.reactbits.dev/",
+        "category": "Programming",
+        "tags": [
+            "collection",
+            "components",
+            "programming",
+            "react",
+            "freemium"
+        ],
+        "description": "collection of React components"
+    },
+    {
+        "name": "Developer Roadmaps",
+        "url": "https://roadmap.sh/roadmaps/",
+        "category": "Programming",
+        "tags": [
+            "developers",
+            "programming",
+            "roadmaps",
+            "freemium",
+            "skills"
+        ],
+        "description": "roadmaps for developers"
+    },
+    {
+        "name": "Nature of Code",
+        "url": "https://natureofcode.com/",
+        "category": "Programming",
+        "tags": [
+            "book",
+            "coding",
+            "programming",
+            "learning",
+            "free"
+        ],
+        "description": "an online book about simulating life with code"
+    },
+    {
+        "name": "Staying Fun",
+        "url": "https://staying.fun/en",
+        "category": "Programming",
+        "tags": [
+            "algorithms",
+            "data structures",
+            "programming",
+            "visualizations",
+            "free"
+        ],
+        "description": "real time visualizations of data structures and algorithms"
+    },
+    {
+        "name": "Carbon",
+        "url": "https://carbon.now.sh/",
+        "category": "Programming",
+        "tags": [
+            "code",
+            "programming",
+            "free"
+        ],
+        "description": "create beautiful images of code to share"
+    },
+    {
+        "name": "Uiverse",
+        "url": "https://uiverse.io/",
+        "category": "Programming",
+        "tags": [
+            "collection",
+            "open-source",
+            "programming",
+            "ui",
+            "ui components",
+            "free"
+        ],
+        "description": "collection of open-source UI components"
+    },
+    {
+        "name": "Coddy",
+        "url": "https://coddy.tech/",
+        "category": "Programming",
+        "tags": [
+            "coding",
+            "learning",
+            "programming",
+            "free",
+            "education"
+        ],
+        "description": "learn to code"
+    },
+    {
+        "name": "Algorithm Animator",
+        "url": "https://glenzli.github.io/algorithm-animator/",
+        "category": "Programming",
+        "tags": [
+            "algorithms",
+            "animations",
+            "programming",
+            "visualizations",
+            "free"
+        ],
+        "description": "animations of various algorithms"
+    },
+    {
+        "name": "Codedex",
+        "url": "https://www.codedex.io/",
+        "category": "Programming",
+        "tags": [
+            "coding",
+            "learning",
+            "programming",
+            "freemium",
+            "education"
+        ],
+        "description": "learn to code"
+    },
+    {
+        "name": "Noclip",
+        "url": "https://noclip.website/",
+        "category": "Games",
+        "tags": [
+            "console",
+            "emulator",
+            "games",
+            "free",
+            "fun",
+            "collection"
+        ],
+        "description": "console emulator with games ready to play in your web browser"
+    },
+    {
+        "name": "My Emulator",
+        "url": "https://myemulator.onl/",
+        "category": "Games",
+        "tags": [
+            "games",
+            "retro",
+            "emulator",
+            "console",
+            "free",
+            "fun",
+            "collection"
+        ],
+        "description": "play retro games online"
+    },
+    {
+        "name": "Slowroads",
+        "url": "https://slowroads.io/",
+        "category": "Games",
+        "tags": [
+            "driving",
+            "endless",
+            "game",
+            "games",
+            "free"
+        ],
+        "description": "endless driving game"
+    },
+    {
+        "name": "Internet Janitor",
+        "url": "https://internet-janitor.itch.io/",
+        "category": "Games",
+        "tags": [
+            "collection",
+            "experiments",
+            "funny",
+            "games",
+            "free",
+            "fun"
+        ],
+        "description": "collection of funny online games and experiments"
+    },
+    {
+        "name": "AirConsole",
+        "url": "https://www.airconsole.com/",
+        "category": "Games",
+        "tags": [
+            "games",
+            "multiplayer",
+            "freemium",
+            "paid",
+            "fun"
+        ],
+        "description": "multiplayer games"
+    },
+    {
+        "name": "Lostgamer",
+        "url": "https://lostgamer.io/",
+        "category": "Games",
+        "tags": [
+            "game",
+            "games",
+            "geo-guesser",
+            "free"
+        ],
+        "description": "geo-guesser for game worlds"
+    },
+    {
+        "name": "HammyHome",
+        "url": "https://hammyhome.com/",
+        "category": "Games",
+        "tags": [
+            "game",
+            "games",
+            "hamster",
+            "free"
+        ],
+        "description": "online hamster"
+    },
+    {
+        "name": "Electude Simulator",
+        "url": "https://simulator.electude.com/simulator",
+        "category": "Games",
+        "tags": [
+            "games",
+            "game",
+            "simulator",
+            "free",
+            "education"
+        ],
+        "description": "car repair simulator"
+    },
+    {
+        "name": "Arnismc",
+        "url": "https://arnismc.com/",
+        "category": "Games",
+        "tags": [
+            "games",
+            "minecraft",
+            "free",
+            "open-source"
+        ],
+        "description": "transform any location to Minecraft"
+    },
+    {
+        "name": "Stella Nova",
+        "url": "https://davesgames.io/stella-nova/",
+        "category": "Games",
+        "tags": [
+            "game",
+            "games",
+            "simulation",
+            "space",
+            "free",
+            "fun",
+            "collection",
+            "cosmic",
+            "cosmos"
+        ],
+        "description": "collection of variopus cosmic simulations and manuals related to the Stella Nova game"
+    },
+    {
+        "name": "OpenCourseWare",
+        "url": "https://ocw.mit.edu/",
+        "category": "Education",
+        "tags": [
+            "courses",
+            "education",
+            "materials",
+            "resources",
+            "teaching",
+            "free"
+        ],
+        "description": "courses, materials and teaching resources"
+    },
+    {
+        "name": "Learn Anything",
+        "url": "https://learn-anything.xyz/",
+        "category": "Education",
+        "tags": [
+            "collection",
+            "education",
+            "learning",
+            "links",
+            "resources",
+            "free"
+        ],
+        "description": "collection of links to learning resources"
+    },
+    {
+        "name": "Seeing theory",
+        "url": "https://seeing-theory.brown.edu/",
+        "category": "Education",
+        "tags": [
+            "education",
+            "probability",
+            "statistics",
+            "visual",
+            "free"
+        ],
+        "description": "visual introduction to probability and statistics"
+    },
+    {
+        "name": "Class Central",
+        "url": "https://www.classcentral.com/",
+        "category": "Education",
+        "tags": [
+            "education",
+            "collection",
+            "courses",
+            "free"
+        ],
+        "description": "course finder"
+    },
+    {
+        "name": "Gallerix",
+        "url": "https://gallerix.org/",
+        "category": "Education",
+        "tags": [
+            "education",
+            "museum",
+            "free"
+        ],
+        "description": "giant online museum"
+    },
+    {
+        "name": "Chemical Experiments",
+        "url": "https://chemistry-en.nobook.com/console/templates/resource",
+        "category": "Education",
+        "tags": [
+            "chemical",
+            "education",
+            "experiments",
+            "freemium",
+            "collection"
+        ],
+        "description": "collection of interactive chemical experiments"
+    },
+    {
+        "name": "ByteByteGo",
+        "url": "https://blog.bytebytego.com/",
+        "category": "Education",
+        "tags": [
+            "collection",
+            "education",
+            "educational",
+            "free"
+        ],
+        "description": "collection of educational posts"
+    },
+    {
+        "name": "Phet",
+        "url": "https://phet.colorado.edu/",
+        "category": "Education",
+        "tags": [
+            "education",
+            "interactive",
+            "scientific",
+            "simulations",
+            "free"
+        ],
+        "description": "interactive scientific simulations"
+    },
+    {
+        "name": "SeoStudio Tools",
+        "url": "https://seostudio.tools/",
+        "category": "Tools",
+        "tags": [
+            "collection",
+            "free",
+            "tools"
+        ],
+        "description": "a collection of many free online tools"
+    },
+    {
+        "name": "TinyWwow",
+        "url": "https://tinywow.com/",
+        "category": "Tools",
+        "tags": [
+            "collection",
+            "free",
+            "tools"
+        ],
+        "description": "collection of free online tools"
+    },
+    {
+        "name": "Excalidraw",
+        "url": "https://excalidraw.com/",
+        "category": "Tools",
+        "tags": [
+            "drawing",
+            "tools",
+            "whiteboard",
+            "freemium"
+        ],
+        "description": "online drawing whiteboard"
+    },
+    {
+        "name": "OlmOCR 2",
+        "url": "https://olmocr.allenai.org/",
+        "category": "Tools",
+        "tags": [
+            "open-source",
+            "tools",
+            "ocr",
+            "free"
+        ],
+        "description": "open-source ocr"
+    },
+    {
+        "name": "FaceOnLive",
+        "url": "https://faceonlive.com/deepfake-detector/",
+        "category": "Tools",
+        "tags": [
+            "deepfake",
+            "detector",
+            "tools",
+            "free"
+        ],
+        "description": "deepfake detector"
+    },
+    {
+        "name": "Country Comparison Tool",
+        "url": "https://www.theculturefactor.com/country-comparison-tool",
+        "category": "Tools",
+        "tags": [
+            "tools",
+            "free",
+            "education"
+        ],
+        "description": "compare countries"
+    },
+    {
+        "name": "Plan Your Room",
+        "url": "https://www.planyourroom.com/",
+        "category": "Tools",
+        "tags": [
+            "room planner",
+            "tools",
+            "free"
+        ],
+        "description": "room planner"
+    },
+    {
+        "name": "Toolfk",
+        "url": "https://www.toolfk.com/",
+        "category": "Tools",
+        "tags": [
+            "collection",
+            "tools",
+            "free"
+        ],
+        "description": "collection of online tools"
+    },
+    {
+        "name": "123apps",
+        "url": "https://123apps.com/",
+        "category": "Tools",
+        "tags": [
+            "collection",
+            "tools",
+            "free"
+        ],
+        "description": "collection of online tools"
+    },
+    {
+        "name": "Corrupt a file",
+        "url": "https://corrupt-a-file.net/",
+        "category": "Tools",
+        "tags": [
+            "tools",
+            "free"
+        ],
+        "description": "file corrupter"
+    },
+    {
+        "name": "Archive",
+        "url": "https://archive.ph/",
+        "category": "Tools",
+        "tags": [
+            "free",
+            "tool"
+        ],
+        "description": "web archivizer"
+    },
+    {
+        "name": "Watabou's Procgen Arcana",
+        "url": "https://watabou.github.io/",
+        "category": "Random stuff",
+        "tags": [
+            "free",
+            "rpg",
+            "maps"
+        ],
+        "description": "free 2D map creator for RPG sessions"
+    },
+    {
+        "name": "Topoexport",
+        "url": "https://topoexport.com/",
+        "category": "Tools",
+        "tags": [
+            "tools",
+            "free"
+        ],
+        "description": "map data exporter"
+    },
+    {
+        "name": "Trace.moe",
+        "url": "https://trace.moe/",
+        "category": "Random stuff",
+        "tags": [
+            "anime",
+            "free",
+            "search",
+            "fun"
+        ],
+        "description": "trace back the scene from an anime screenshot"
+    },
+    {
+        "name": "ThePudding",
+        "url": "https://pudding.cool/",
+        "category": "Education",
+        "tags": [
+            "collection",
+            "data",
+            "free"
+        ],
+        "description": "collection of interesting publications filled with statistical data"
+    },
+    {
+        "name": "Workout.cool",
+        "url": "https://workout.cool/en",
+        "category": "Random stuff",
+        "tags": [
+            "workout",
+            "freemium"
+        ],
+        "description": "workout helper"
+    },
+    {
+        "name": "Donjon",
+        "url": "https://donjon.bin.sh/",
+        "category": "Random stuff",
+        "tags": [
+            "collection",
+            "games",
+            "tools",
+            "rpg",
+            "free"
+        ],
+        "description": "collection of tools for RPG games"
+    },
+    {
+        "name": "BuildCores",
+        "url": "https://pl.buildcores.com/",
+        "category": "Random stuff",
+        "tags": [
+            "computers",
+            "free",
+            "interactive",
+            "pc builder"
+        ],
+        "description": "interactive PC builder"
+    },
+    {
+        "name": "OldMaps Online",
+        "url": "https://www.oldmapsonline.org/",
+        "category": "Random stuff",
+        "tags": [
+            "collection",
+            "maps",
+            "free"
+        ],
+        "description": "collection of old maps"
+    },
+    {
+        "name": "Supercook",
+        "url": "https://www.supercook.com",
+        "category": "Random stuff",
+        "tags": [
+            "recipes",
+            "food",
+            "free"
+        ],
+        "description": "recipes based on selected components"
+    },
+    {
+        "name": "Atlas Obscura",
+        "url": "https://www.atlasobscura.com/",
+        "category": "Random stuff",
+        "tags": [
+            "maps",
+            "tourism",
+            "travel",
+            "free"
+        ],
+        "description": "hidden wonders around the world"
+    },
+    {
+        "name": "Shotdeck",
+        "url": "https://shotdeck.com/",
+        "category": "Random stuff",
+        "tags": [
+            "database",
+            "images",
+            "movie",
+            "searchable",
+            "free"
+        ],
+        "description": "searchable database of movie images"
+    },
+    {
+        "name": "Brickit",
+        "url": "https://brickit.app/",
+        "category": "Random stuff",
+        "tags": [
+            "bricks",
+            "apps",
+            "freemium"
+        ],
+        "description": "recognizes bricks from photo and suggest build ideas"
+    },
+    {
+        "name": "LingoHut",
+        "url": "https://www.lingohut.com",
+        "category": "Education",
+        "tags": [
+            "language",
+            "free"
+        ],
+        "description": "language learning"
+    },
+    {
+        "name": "Printable Creative",
+        "url": "https://printablecreative.com/",
+        "category": "Random stuff",
+        "tags": [
+            "generators",
+            "printables",
+            "free"
+        ],
+        "description": "printables generators"
+    },
+    {
+        "name": "Cymath",
+        "url": "https://www.cymath.com/",
+        "category": "Education",
+        "tags": [
+            "math",
+            "problem solver",
+            "freemium"
+        ],
+        "description": "math problem solving"
+    },
+    {
+        "name": "FreeSewing",
+        "url": "https://freesewing.eu/",
+        "category": "Random stuff",
+        "tags": [
+            "sewing",
+            "free",
+            "collection"
+        ],
+        "description": "sewing patterns"
+    },
+    {
+        "name": "PlayPhrase",
+        "url": "https://www.playphrase.me",
+        "category": "Random stuff",
+        "tags": [
+            "movies",
+            "searchable",
+            "free"
+        ],
+        "description": "find phrase in movies"
+    },
+    {
+        "name": "Space Type Generator",
+        "url": "https://spacetypegenerator.com/",
+        "category": "Tools",
+        "tags": [
+            "animations",
+            "generate",
+            "text",
+            "free",
+            "tools"
+        ],
+        "description": "generate text animations"
+    },
+    {
+        "name": "Grid Type",
+        "url": "https://www.grid-type.com/",
+        "category": "Tools",
+        "tags": [
+            "generator",
+            "grid",
+            "free",
+            "tools"
+        ],
+        "description": "grid generator"
+    },
+    {
+        "name": "Mobomaps",
+        "url": "https://mobomaps.com/",
+        "category": "Tools",
+        "tags": [
+            "computers",
+            "free",
+            "tool"
+        ],
+        "description": "see where every lane on a motherboard goes"
+    },
+    {
+        "name": "Uchinoko Maker",
+        "url": "https://uchinoko-maker.jp/",
+        "category": "Random stuff",
+        "tags": [
+            "create",
+            "illustration",
+            "uchinko",
+            "free"
+        ],
+        "description": "create a Uchinko illustration"
+    },
+    {
+        "name": "MyRetroTVs",
+        "url": "https://www.myretrotvs.com/",
+        "category": "Random stuff",
+        "tags": [
+            "retro",
+            "tv",
+            "free"
+        ],
+        "description": "retro TV channels"
+    },
+    {
+        "name": "The Toymaker",
+        "url": "https://thetoymaker.com/",
+        "category": "Random stuff",
+        "tags": [
+            "collection",
+            "paper",
+            "toys",
+            "free"
+        ],
+        "description": "collection of paper toys"
+    },
+    {
+        "name": "Tiled.art",
+        "url": "https://tiled.art/en/home",
+        "category": "Random stuff",
+        "tags": [
+            "tesselation",
+            "art",
+            "free"
+        ],
+        "description": "tesselation art"
+    },
+    {
+        "name": "City Roads",
+        "url": "https://anvaka.github.io/city-roads/",
+        "category": "Random stuff",
+        "tags": [
+            "maps",
+            "roads",
+            "free"
+        ],
+        "description": "render roads from a city"
+    },
+    {
+        "name": "Funes",
+        "url": "https://funes.world/",
+        "category": "Random stuff",
+        "tags": [
+            "archive",
+            "models",
+            "free"
+        ],
+        "description": "archive of 3D models"
+    },
+    {
+        "name": "They See Your Photos",
+        "url": "https://theyseeyourphotos.com/",
+        "category": "Random stuff",
+        "tags": [
+            "photo",
+            "free"
+        ],
+        "description": "find information from a photo"
+    },
+    {
+        "name": "Depth of Field Simulator",
+        "url": "https://jherr.github.io/depth-of-field/",
+        "category": "Tools",
+        "tags": [
+            "free",
+            "simulator",
+            "tools",
+            "photography"
+        ],
+        "description": "depth of field simulator"
+    },
+    {
+        "name": "fff.",
+        "url": "https://fff.cmiscm.com",
+        "category": "Random stuff",
+        "tags": [
+            "collection",
+            "art",
+            "free"
+        ],
+        "description": "collection of interactive experiences"
+    },
+    {
+        "name": "Skill Lync Calculators",
+        "url": "https://resources.skill-lync.com/?tab=calculators",
+        "category": "Random stuff",
+        "tags": [
+            "calculators",
+            "collection",
+            "free"
+        ],
+        "description": "collection of various calculators"
+    },
+    {
+        "name": "Depth of Field Simulator",
+        "url": "https://dofsimulator.net/pl/",
+        "category": "Tools",
+        "tags": [
+            "free",
+            "simulator",
+            "tools",
+            "photography"
+        ],
+        "description": "depth of field simulator"
+    },
+    {
+        "name": "Ptable",
+        "url": "https://ptable.com",
+        "category": "Education",
+        "tags": [
+            "chemistry",
+            "free"
+        ],
+        "description": "periodic table"
+    },
+    {
+        "name": "Shademap",
+        "url": "https://shademap.app/",
+        "category": "Random stuff",
+        "tags": [
+            "maps",
+            "free"
+        ],
+        "description": "see how shadows change on the map"
+    },
+    {
+        "name": "Dungeon Map Doodler",
+        "url": "https://dungeonmapdoodler.com/",
+        "category": "Random stuff",
+        "tags": [
+            "creator",
+            "rpg",
+            "maps",
+            "free"
+        ],
+        "description": "map creator"
+    },
+    {
+        "name": "Terraink",
+        "url": "https://terraink.app/",
+        "category": "Random stuff",
+        "tags": [
+            "maps",
+            "free"
+        ],
+        "description": "create beautiful maps"
+    },
+    {
+        "name": "Sweezy Cursors",
+        "url": "https://sweezy-cursors.com/",
+        "category": "Random stuff",
+        "tags": [
+            "collection",
+            "cursors",
+            "mouse",
+            "free"
+        ],
+        "description": "collection of mouse cursors"
+    },
+    {
+        "name": "F4map",
+        "url": "https://demo.f4map.com",
+        "category": "Random stuff",
+        "tags": [
+            "maps",
+            "free"
+        ],
+        "description": "3d maps"
+    },
+    {
+        "name": "The Listening Museum",
+        "url": "https://sheets.works/data-viz/keyboard-sounds",
+        "category": "Random stuff",
+        "tags": [
+            "museum",
+            "sounds",
+            "free"
+        ],
+        "description": "museum of keyboard sounds"
+    },
+    {
+        "name": "Zperiod",
+        "url": "https://zperiod.app/",
+        "category": "Education",
+        "tags": [
+            "interactive",
+            "periodic",
+            "free"
+        ],
+        "description": "interactive periodic table"
+    }
+]

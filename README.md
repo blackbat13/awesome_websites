@@ -1,128 +1,77 @@
-# Awesome Websites
+# Awesome Websites Explorer
 
-Curated list of awesome webistes I have found all around the Internet.
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome" />
+  </a>
+  <img src="https://img.shields.io/badge/Static%20Site-GitHub%20Pages-0f766e" alt="Static site" />
+  <img src="https://img.shields.io/badge/Data-JSON-c97f3d" alt="JSON data" />
+</p>
 
-## Graphics
+A curated collection of websites that deserve more attention.
 
-- https://pngimg.com/ - a huge collection of free png images
-- https://www.thiings.co/things - huge collection of png icons
-- https://pixie.haus/gallery - pixel art images
-- https://gratisography.com/ - unique, free stock images
-- https://www.photopea.com/ - free online photo editor
-- https://remove.photos/ - remove background from images
-- https://www.svgrepo.com/ - collection of svg vectors and icons
-- https://www.pacdora.com/ - packaging mockups
-- https://resourceboy.com/ - free design resources
+The goal of this project is to showcase hidden gems from the Internet in a clean, searchable, and easy-to-contribute format.
 
-## Video
+Live website: [https://blackbat13.github.io/awesome_websites/](https://blackbat13.github.io/awesome_websites/)
 
-- https://paperanimator.com/ - generating paper animations
-- https://freedesigntool.online/baby-track
+The project is fully static (no backend) and stores entries in JSON so updates stay simple.
 
-## Music
+## Features
 
-- https://x-minus.pro/ai - remove voice from a song
-- https://app.syrinscape.com - sound effects for rpg sessions
+- Search by name, URL, category, description, and tags
+- Category filter
+- Multi-tag filtering
+- Rich card layout with website preview image (with favicon fallback)
+- Data-driven content from JSON
 
-## Programming
+## Project Structure
 
-- https://www.reactbits.dev/ - collection of React components
-- https://roadmap.sh/roadmaps/ - roadmaps for developers
-- https://natureofcode.com/ - an online book about simulating life with code
-- https://staying.fun/en - real time visualizations of data structures and algorithms
-- https://carbon.now.sh/ - create beautiful images of code to share
-- https://uiverse.io/ - library of open-source UI
-- https://coddy.tech/ - learn to code
-- https://glenzli.github.io/algorithm-animator/ - animations of various algorithms
-- https://www.codedex.io/ - learn to code
+- index.html: page markup
+- assets/styles.css: styling and responsive layout
+- assets/app.js: filtering logic and rendering
+- data/websites.json: editable website entries
 
-## Games
+## Contributing
 
-- https://noclip.website/ - console emulator with games ready to play in your web browser
-- https://myemulator.onl/ - play retro games online
-- https://slowroads.io/ - endless driving game
-- https://internet-janitor.itch.io/ - collection of funny onilne games and experiments
-- https://www.airconsole.com/ - multiplayer games
-- https://lostgamer.io/ - geo guesser for game worlds
-- https://hammyhome.com/ - online hamster
-- https://simulator.electude.com/simulator - car repair simulator
-- https://arnismc.com/ - transform any location to Minecraft
-- https://davesgames.io/stella-nova/ - simulation game
+Contributions are welcome.
 
-## Education
+### Add A New Website
 
-- https://ocw.mit.edu/ - courses, materials and teaching resources
-- https://learn-anything.xyz/ - collection of links to learning resources
-- https://seeing-theory.brown.edu/ - visual introduction to probability and statistics
-- https://imagineexplainers.com/ - educational videos created by ai
-- https://www.classcentral.com/ - course finder
-- https://gallerix.org/ - giant online museum
-- https://chemistry-en.nobook.com/console/templates/resource - chemical experiments
-- https://blog.bytebytego.com/ - collection of educational posts
-- https://phet.colorado.edu/ - interactive scientific simulations
+1. Open `data/websites.json`.
+2. Add a new object to the top-level array.
+3. Follow the existing schema:
 
-## Tools
+```json
+{
+  "name": "Example",
+  "url": "https://example.com",
+  "category": "Tools",
+  "tags": ["productivity", "online"],
+  "description": "Short summary shown on the card"
+}
+```
 
-- https://seostudio.tools/ - a collection many free online tools
-- https://tinywow.com/ - collection of free online tools
-- https://excalidraw.com/ - online drawing whiteboard
-- https://olmocr.allenai.org/ - open-source ocr
-- https://faceonlive.com/deepfake-detector/ - deepfake detector
-- https://wifispc.com/ - free wifi passwords map
-- https://www.theculturefactor.com/country-comparison-tool - compare countries
-- https://www.planyourroom.com/ - room planner
-- https://www.toolfk.com/ - collection of online tools
-- https://diskanalyzer.com/ - disk space analyzer
-- https://123apps.com/ - collection of online tools
-- https://corrupt-a-file.net/ - file corrupter
+4. Keep descriptions concise and useful.
+5. Use lowercase tags where possible and avoid duplicates.
+6. Reuse an existing category when it fits to keep filtering consistent.
+7. Make sure `url` is a valid `https://` link.
 
-## Random stuff
+### Data Guidelines
 
-- https://flourish.studio/ - turning data into stories
-- https://archive.ph/ - web archivizer
-- https://watabou.github.io/ - free 2D map creator for RPG sessions
-- https://topoexport.com/ - map data exporter
-- https://trace.moe/ - trace back the scene from an anime screenshot
-- https://pudding.cool/ - collection of interesting publications filled with statistical data
-- https://www.credit-agricole.pl/quiz/ - phishing quiz
-- https://workout.cool/en - workout helper
-- https://donjon.bin.sh/ - collection of tools for RPG games
-- https://pl.buildcores.com/ - interactive PC builder
-- https://www.oldmapsonline.org/ - collection of old maps
-- https://www.napkin.ai/ - convert text to visual diagrams
-- https://www.supercook.com - recipes based on selected components
-- https://www.atlasobscura.com/ - hidden wounders around the world
-- https://shotdeck.com/ - searchable database of movie images
-- https://brickit.app/ - recognizes bricks from photo and suggest build ideas
-- https://www.lingohut.com - language learning
-- https://printablecreative.com/ - printables generators
-- https://www.cymath.com/ - math problem solving
-- https://chemequations.com/en/- chemical equations
-- https://me.meshcapade.com/ - create 3D avatars
-- https://freesewing.eu/ - sewing patterns
-- https://www.playphrase.me - find phrase in movies
-- https://spacetypegenerator.com/ - generate text animations
-- https://www.grid-type.com/ - grid generator
-- https://lunchbreak.ai/ - ai detector and fixer
-- https://mobomaps.com/ - compare motherboards
-- https://uchinoko-maker.jp/ - create a Uchinko illustration
-- https://www.myretrotvs.com/ - retro TV channels
-- https://floor796.com/ 
-- https://thetoymaker.com/ - collection of paper toys
-- https://tiled.art/en/home - tesselation art
-- https://anvaka.github.io/city-roads/ - render roads from a city
-- https://funes.world/ - archive of 3D models
-- https://theyseeyourphotos.com/ - find information from a photo
-- https://jherr.github.io/depth-of-field/ - depth of field simulator
-- https://fff.cmiscm.com - collection of interactive experiences
-- https://resources.skill-lync.com/?tab=calculators - collection of various calculators
-- https://dofsimulator.net/pl/ - depth of field simulator
-- https://ptable.com - chemical table
-- https://shademap.app/ - see how shadows change on the map
-- https://www.blueprint.am/
-- https://dungeonmapdoodler.com/ - map creator
-- https://terraink.app/ - generate maps
-- https://sweezy-cursors.com/ - collection of mouse cursors
-- https://demo.f4map.com - 3d maps
-- https://sheets.works/data-viz/keyboard-sounds - museum of keyboard sounds
-- https://zperiod.app/ - interactive periodic table
+- `name`: clear, human-readable website name
+- `url`: full website link
+- `category`: high-level group used by category filter
+- `tags`: searchable keywords
+- `description`: short preview text shown on cards
+
+### Suggested Contribution Workflow
+
+1. Fork the repository.
+2. Create a feature branch for your changes.
+3. Update `data/websites.json`.
+4. Preview locally (optional) and verify search/filter behavior.
+5. Open a pull request with a short summary of what you added.
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
