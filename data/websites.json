@@ -1078,7 +1078,8 @@
         "category": "Programming",
         "tags": [
             "education",
-            "free"
+            "free",
+            "blockly"
         ],
         "description": "learn programming by playing computer soccer with a team you can program yourself"
     },
@@ -1088,7 +1089,9 @@
         "category": "Programming",
         "tags": [
             "education",
-            "free"
+            "free",
+            "js",
+            "javascript"
         ],
         "description": "learn programming coding your way through dungeons"
     }
