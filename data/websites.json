@@ -1071,5 +1071,25 @@
             "fun"
         ],
         "description": "a huge animation scene with many references to memes, games, films, series, anime, music groups"
+    },
+    {
+        "name": "SuperCodingBall",
+        "url": "https://www.supercodingball.com/home",
+        "category": "Programming",
+        "tags": [
+            "education",
+            "free"
+        ],
+        "description": "learn programming by playing computer soccer with a team you can program yourself"
+    },
+    {
+        "name": "WarriorJS",
+        "url": "https://warriorjs.com",
+        "category": "Programming",
+        "tags": [
+            "education",
+            "free"
+        ],
+        "description": "learn programming coding your way through dungeons"
     }
 ]
