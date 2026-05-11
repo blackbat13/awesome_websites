@@ -1094,5 +1094,17 @@
             "javascript"
         ],
         "description": "learn programming coding your way through dungeons"
+    },
+    {
+        "name": "FindMyMouse",
+        "url": "https://findmymouse.com/",
+        "category": "Tools",
+        "tags": [
+            "free",
+            "tools",
+            "fun",
+            "game"
+        ],
+        "description": "mouse comparator with a MouseGuessr game"
     }
 ]
