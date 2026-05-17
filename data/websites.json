@@ -1114,7 +1114,8 @@
         "tags": [
             "free",
             "space",
-            "visualization"
+            "visualization",
+            "new"
         ],
         "description": "visualize satellites and space debris in low Earth orbit"
     },
@@ -1125,7 +1126,8 @@
         "tags": [
             "free",
             "music",
-            "sequencer"
+            "sequencer",
+            "new"
         ],
         "description": "create and share music"
     },
@@ -1139,7 +1141,8 @@
             "fun",
             "experiments",
             "art",
-            "education"
+            "education",
+            "new"
         ],
         "description": "collection of interactive experiments and art pieces"
     },
@@ -1153,7 +1156,8 @@
             "fun",
             "math",
             "art",
-            "education"
+            "education",
+            "new"
         ],
         "description": "collection of interactive strange attractors"
     }
