@@ -1106,5 +1106,55 @@
             "game"
         ],
         "description": "mouse comparator with a MouseGuessr game"
+    },
+    {
+        "name": "Low Earth Orbit Visualization",
+        "url": "https://platform.leolabs.space/visualization",
+        "category": "Random stuff",
+        "tags": [
+            "free",
+            "space",
+            "visualization"
+        ],
+        "description": "visualize satellites and space debris in low Earth orbit"
+    },
+    {
+        "name": "Online Sequencer",
+        "url": "https://onlinesequencer.net/",
+        "category": "Music",
+        "tags": [
+            "free",
+            "music",
+            "sequencer"
+        ],
+        "description": "create and share music"
+    },
+    {
+        "name": "LAB by Patrick Heintzmann",
+        "url": "https://lab.patrickheintzmann.com/",
+        "category": "Random stuff",
+        "tags": [
+            "free",
+            "collection",
+            "fun",
+            "experiments",
+            "art",
+            "education"
+        ],
+        "description": "collection of interactive experiments and art pieces"
+    },
+    {
+        "name": "Attractors",
+        "url": "https://attractors.cs-htiew.com/",
+        "category": "Random stuff",
+        "tags": [
+            "free",
+            "collection",
+            "fun",
+            "math",
+            "art",
+            "education"
+        ],
+        "description": "collection of interactive strange attractors"
     }
 ]
