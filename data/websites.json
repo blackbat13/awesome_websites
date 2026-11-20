@@ -1160,5 +1160,17 @@
             "new"
         ],
         "description": "collection of interactive strange attractors"
+    },
+    {
+        "name": "Best Daily Games",
+        "url": "https://bestdaily.games/",
+        "category": "Games",
+        "tags": [
+            "free",
+            "daily",
+            "puzzles",
+            "browser"
+        ],
+        "description": "Browse daily browser puzzles by type and save a local checklist that links to their original publishers."
     }
 ]
